@@ -92,7 +92,7 @@ jalan("\033[1;92m   YOUR MOBILE SPEED IS 1.0002 SD/M .....ACTIVATED")
 jalan('\033[1;93m   .....10%......30%.........50%......70%..........100%')
 jalan('\033[1;93m   SOME VIRUS HAS FOUND..GOING TO DELETE....DONE100000000%')
 jalan("\033[1;93m   NOW SYSTEM IS GOING TO CONNECT WITH CYBER HACKING GALAXY")
-jalan("\033[1;93m   ©CYBER PLAYER RIGHT HANDED ® MR ARBAB ALI MEMON 0.01286✓✓✓)
+jalan("\033[1;93m   ©CYBER PLAYER RIGHT HANDED ® MR ARBAB ALI MEMON 0.01286✓✓✓")
 print "\033[1;92m•◈•MR -X •◈•\033[1;91mLogin Arbab-Memon\033[1;92m•◈•Mr -X•◈•"
  ___                           ___                              
 (   )                         (   )                             
